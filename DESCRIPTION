@@ -12,12 +12,9 @@ Description: Simple test package for remotes package and
     gitmodules.
 License: GPL-3
 Suggests: 
-    covr,
-    knitr,
-    rmarkdown,
-    testthat
+    covr
 Encoding: UTF-8
 LazyData: true
-VignetteBuilder: knitr
 URL: https://github.com/muschellij2/test.remotes.gitmodules
 BugReports: https://github.com/muschellij2/test.remotes.gitmodules/issues
+RoxygenNote: 6.1.0

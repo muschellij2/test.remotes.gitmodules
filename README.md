@@ -1,0 +1,22 @@
+
+[![Travis build
+status](https://travis-ci.com/muschellij2/test.remotes.gitmodules.svg?branch=master)](https://travis-ci.com/muschellij2/test.remotes.gitmodules)
+[![AppVeyor Build
+Status](https://ci.appveyor.com/api/projects/status/github/muschellij2/test-remotes-gitmodules?branch=master&svg=true)](https://ci.appveyor.com/project/muschellij2/test-remotes-gitmodules)
+[![Coverage
+status](https://codecov.io/gh/muschellij2/test.remotes.gitmodules/branch/master/graph/badge.svg)](https://codecov.io/gh/muschellij2/test.remotes.gitmodules)
+<!-- README.md is generated from README.Rmd. Please edit that file -->
+
+# test.remotes.gitmodules Package:
+
+The goal of `test.remotes.gitmodules` is to provide simple test package
+for remotes package and gitmodules.
+
+## Installation
+
+You can install `test.remotes.gitmodules` from GitHub with:
+
+``` r
+# install.packages("remotes")
+remotes::install_github("muschellij2/test.remotes.gitmodules")
+```
